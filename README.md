@@ -1,2 +1,2 @@
-# semanaomnistack-11
-Be The Hero
+# SemanaOmnistack 11.0
+## Projeto Be The Hero
