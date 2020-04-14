@@ -7,5 +7,5 @@ O projeto consiste em um sistema de doação de recursos para ongs. As ongs faze
 ### Tecnologias utilizadas:
 - JavaScript
 - React
-- Node
+- Node.js
 - React Native
